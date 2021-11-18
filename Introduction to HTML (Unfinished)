@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+   <title> My Very First HTML/CSS Designing</title>
+   </head>
+   
+   <!-- I recommend you to use NotePad++ or Visual Studio -->
+   
+   <body>
+       <p> Examples of all Tag Elements </p>
+	   
+	   
+	   
+	   <!-- You can use this for any circumstances -->
+	   
+	   <b>Bold</b> <br>
+	   <strong>Strong</strong> <br>
+	   <i>Italic</i> <br>
+	   <em>emphasized</em> <br>
+	   <mark>Marked</mark> <br>
+	   <small>Smaller</small> <br>
+	   <del>deleted</del> <br>
+	   <ins>Inserted</ins> <br>
+	   <sub>Subscript</sub> <br>
+	   <sup>Superscipt</sup> <br>
+	   
+	</body>
+   
+   
+</html>
