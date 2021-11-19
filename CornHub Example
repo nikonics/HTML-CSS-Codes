@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>CornHub</title>
+   <link href="style.css" rel="stylesheet" />
+
+
+</head>
+
+
+<body>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <div class="container ">
+                    <div id="logo-container">
+    <div  id="corn" class="logo">CORN</div>
+    <div style="color:add_black" id="hub" class="logo">HUB</div>
+   </div>
+                       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                       <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+                          </div>
+                        </div>
+                      </nav>
+                      <br>
+                      <br>
+                      <div  id="corn" class="logo">CORN</div>
+    <div style="color:add_black" id="hub" class="logo">HUB</div>
+   </div>
+                      
+             <section class="py-5">
+                <div class="container px-5 my-5">
+                    <div class="row gx-5 justify-content-center">
+                        <div class="col-lg-8 col-xl-6">
+                        </div>
+                    </div>
+                    <div class="row gx-5">
+                        <div class="col-lg-4 mb-5">
+                            <div class=" h-100 shadow border-0">
+                                <img class="card-img-top" src="corn1.jpeg" alt="..." />
+                                <div class="card-body p-4">
+                                  <div class="badge bg-primary bg-gradient rounded-pill mb-2"></div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">CORNHUB INDUSTRY</h5></a><p class="card-text mb-0">Corn is the world's most important grain, based on production volume. In 2018/2019, a production level of around 1.09 billion metric tons of corn was achieved. In 2019/20 the United States was by far the biggest corn producer worldwide, with a production volume amounting to over 345 million metric tons.</p>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container ">
+                    <div id="logo-container">
+    <div  id="corn" class="logo">FOOD</div>
+    <div style="color:add_black" id="hub" class="logo">Types</div><br><br><br>
+                        <div class="col-lg-4 mb-5">
+                            <div class=" h-100 shadow border-0">
+                                <img class="card-img-top" src="popcorn.jpeg" alt="..." />
+                                <div class="card-body p-4">
+                                  <div class="badge bg-primary bg-gradient rounded-pill mb-2"></div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Popcorn</h5></a>
+                                    <p class="card-text mb-0">Popcorn is a variety of corn kernel which expands and puffs up when heated; the same names are also used to refer to the foodstuff produced by the expansion. A popcorn kernel's strong hull contains the seed's hard, starchy shell endosperm with 14–20% moisture, which turns to steam as the kernel is heated. </p>
+                                </div>
+                                <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
+                                          </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 mb-5">
+                            <div class=" h-100 shadow border-0">
+                                <img class="card-img-top" src="sweet.jpeg" alt="..." />
+                                <div class="card-body p-4">
+                                  <div class="badge bg-primary bg-gradient rounded-pill mb-2"></div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Sweet Corn</h5></a>
+                                    <p class="card-text mb-0">Sweet corn is a variety of maize grown for human consumption with a high sugar content. Sweet corn is the result of a naturally occurring recessive mutation in the genes which control conversion of sugar to starch inside the endosperm of the corn kernel.</p>
+                                            </div>
+                                         </div>
+                                        </div>
+                                        <div class="col-lg-4 mb-5">
+                            <div class=" h-100 shadow border-0">
+                                <img class="card-img-top" src="condensed.jpeg" alt="..." />
+                                <div class="card-body p-4"> <div class="badge bg-primary bg-gradient rounded-pill mb-2"></div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Chalado</h5></a>
+                                    <p class="card-text mb-0">A cholado is a creamy marriage of a snow cone and a fruit cocktail. This combination of fruit syrup, sweetened condensed milk, and tropical fruits over crushed ice is a refreshing, favorite way to cool off on a warm day in Colombia.</p>
+                                             </div>
+                                           </div>
+                                        </div>
+                        <div>
+                        <h1></h1><a class="card-title color-link" href="logo.html">BACK</a></h1>
+                        <h1><a class="card-title color-link" href="https://youtu.be/o-YBDTqX_ZU">NEXT</a></h1>
+                        </div>
+                        <li class="nav-item"><h1>FEEDBACK US TO IMPROVE MY SITE</h1><a class="nav-link" href="contact.html"><strong>(JUST CLICK HERE)</strong></li>
+                        <!-- to be continue-->
+                </div>
+            </section>
+        </main>
+                <footer class="bg-dark py-4 mt-auto col-auto">
+            <div class="container px-5 col-auto">
+                <div class="row align-items-center justify-content-between flex-column flex-sm-row">
+                    <div class="col-auto"><div class="small m-0 text-white">Alright Recieved &copy; CornHub Website 2020 </div></div>
+                    <div id="a1" class="">
+                        <a class="link-light small" href="#!">Privacy</a>
+                        <span class="text-white mx-1">&middot;</span>
+                        <a class="link-light small" href="#!">Terms</a>
+                        <span class="text-white mx-1">&middot;</span>
+                        <a class="link-light small" href="#!">Contact</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+</body>
+
+</html>
